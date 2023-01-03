@@ -1,4 +1,4 @@
 # Youtube-Tutorials
-All scripts related to code club .. happy learning 
+All scripts related to Terminal Magic .. happy learning 
 from Code Club
 
